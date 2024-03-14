@@ -1,30 +1,31 @@
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+# Modified Version of the Armchair XOL Toolhead for printers with top mounted MGN12H or compatible rails.
 
-# Xol Toolhead
-A soft reboot of Xol 2 (<https://github.com/Armchair-Engineering/Mantis-Xol>) aimed at modularity and quality of life improvements for installation and serviceability. We have left the mantis carriage behind, and thus are now just Xol sans Mantis. Don't worry, it's still ugly, we couldn't fix that.
+## Currently Supported:
 
-Project lead: [DW-Tas](https://github.com/DW-Tas)
+### Hotends
+- Phaetus Dragon SF/HF
+- Phaetus Dragon UHF (heat insert version only)
+- Phaetus Rapido (to use all 4 screws of the rapido with the sherpa mini mount, selected the appropriate `rotated` version)
 
-[![Join me on Discord](https://discord.com/api/guilds/1029426383614648421/widget.png?style=banner2)](https://discord.gg/armchairengineeringsux)
+### Extruders:
+- Orbiter V2
+- Sherpa Mini
+- LGX-Lite
+- VZ-Hextrudort
+- Escapement
 
-<img src='docs/assets/images/full_assembly.png' width=850 />
+### Probes:
+- Un/Klicky NG
+(Probes have to get overhauled though, only tested hotend for those is RapidoUHF as of now)
 
-## Go to the /docs
-All of the documentation has been moved to /docs to help keep the repo organised (crazy I know) and enable future things.
-* [Full README](docs/README.md)
-  * [Bill of Materials (BOM)](docs/BOM.md)
-  * [Printing parts](docs/printing.md)
-  * [Carriage assembly](docs/xol_carriage_assembly.md)
-  * [Toolhead assembly](docs/toolhead_assembly.md)
+Based on:
+- [XOL](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead)
+- [Evantis-XOL](https://www.printables.com/de/model/600324-evantis-xol-toolhead)
+  
+Big thanks and credit to:
+- [DW Tas](https://github.com/DW-Tas), [CorvidBuilds](https://github.com/CorvidBuilds) and the whole [Armchair Enginnering](https://github.com/Armchair-Heavy-Industries) team for the XOL
+- [Sir_Wash](https://www.printables.com/de/model/600324-evantis-xol-toolhead) for the Evantis
 
-<br/><br/><br/><br/>
-
-
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
-
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+The original licenses apply here as well:
+- [XOL](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead/blob/main/LICENSE)
+- [Evantis XOL](https://www.printables.com/de/model/600324-evantis-xol-toolhead)
