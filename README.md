@@ -18,6 +18,9 @@
 - Un/Klicky NG
 (Probes have to get overhauled though, only tested hotend for those is RapidoUHF as of now)
 
+
+## Credits
+
 Based on:
 - [XOL](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead)
 - [Evantis-XOL](https://www.printables.com/de/model/600324-evantis-xol-toolhead)
