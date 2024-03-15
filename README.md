@@ -1,4 +1,4 @@
-# Modified Version of the Armchair XOL Toolhead for printers with top mounted MGN12H or compatible rails.
+# Modified Version of the Armchair Xol Toolhead for printers with top mounted MGN12H or compatible rails.
 
 ## Currently Supported:
 
@@ -22,13 +22,13 @@
 ## Credits
 
 Based on:
-- [XOL](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead)
-- [Evantis-XOL](https://www.printables.com/de/model/600324-evantis-xol-toolhead)
+- [Xol](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead)
+- [Evantis-Xol](https://www.printables.com/de/model/600324-evantis-xol-toolhead)
   
 Big thanks and credit to:
-- [DW Tas](https://github.com/DW-Tas), [CorvidBuilds](https://github.com/CorvidBuilds) and the whole [Armchair Enginnering](https://github.com/Armchair-Heavy-Industries) team for the XOL
+- [DW Tas](https://github.com/DW-Tas), [CorvidBuilds](https://github.com/CorvidBuilds) and the whole [Armchair Enginnering](https://github.com/Armchair-Heavy-Industries) team for the Xol
 - [Sir_Wash](https://www.printables.com/de/model/600324-evantis-xol-toolhead) for the Evantis
 
 The original licenses apply here as well:
-- [XOL](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead/blob/main/LICENSE)
-- [Evantis XOL](https://www.printables.com/de/model/600324-evantis-xol-toolhead)
+- [Xol](https://github.com/Armchair-Heavy-Industries/Xol-Toolhead/blob/main/LICENSE)
+- [Evantis Xol](https://www.printables.com/de/model/600324-evantis-xol-toolhead)
